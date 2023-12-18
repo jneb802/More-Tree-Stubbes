@@ -15,7 +15,7 @@ namespace oakStubbe
     //[NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Minor)]
     internal class oakStubbe : BaseUnityPlugin
     {
-        public const string PluginGUID = "com.github.jneb802.oakStubbe";
+        public const string PluginGUID = "com.bepinex.oakStubbe";
         public const string PluginName = "Oak Stubbe";
         public const string PluginVersion = "0.0.1";
 
