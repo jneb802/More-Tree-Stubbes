@@ -1,0 +1,10 @@
+{
+  "name": "More_Tree_Stubbes",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.com/invite/mbkPcvu9ax",
+  "description": "Adds more dead tree stubbes to Valheims wilderness",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2201",
+    "ValheimModding-Jotunn-2.15.2"
+  ]
+}
